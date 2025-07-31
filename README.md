@@ -68,7 +68,7 @@ These capabilities are essential for cloud security engineers, IT administrators
 
 
 <p align="center">
-Task 1: Creating a Recovery Services Vault <br/>
+Task 1: Assigning a Policy to Require Cost Allocation Tags on Resource Groups <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/wetXW0q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -89,7 +89,7 @@ Task 1: Creating a Recovery Services Vault <br/>
 <img src="https://i.imgur.com/1G3wblQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
-Task 2: Configuring Backup Policies <br/>
+Task 2: Assigning a Policy to Inherit Tags from Resource Groups <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/8v2noHz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -119,7 +119,7 @@ Task 2: Configuring Backup Policies <br/>
 <br />
   
 <p align="center">
-Task 3: Exercise: Creating a Monthly Backup Policy <br/>
+Task 3: Tagging the Resource Group <br/>
 <br />
 <br />
 <img src="https://i.imgur.com/yLYBGUl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -145,7 +145,7 @@ Task 3: Exercise: Creating a Monthly Backup Policy <br/>
 <br />
 <br />
 <br />
-Task 4: Creating an Azure Virtual Machine  <br/>
+Task 4: Creating a Non-Compliant Virtual Network  <br/>
 <br />
 <img src="https://i.imgur.com/TVGjaJ4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -177,7 +177,7 @@ Task 4: Creating an Azure Virtual Machine  <br/>
 
 <br />
 <br />
-Task 5: Implementing Azure VM Backup  <br/>
+Task 5: Observing Policy Behavior  <br/>
 <br />
 <img src="https://i.imgur.com/2oPtWAi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
@@ -208,7 +208,7 @@ Task 5: Implementing Azure VM Backup  <br/>
 <br />
 <br />
 <br />
-Task 6: Exercise: Creating a New VM with Monthly Backup  <br/>
+Task 6: Remediating Existing Resources  <br/>
 <br />
 <img src="https://i.imgur.com/xZTaHiw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
