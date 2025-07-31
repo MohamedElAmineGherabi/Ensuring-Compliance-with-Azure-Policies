@@ -144,129 +144,56 @@ Task 3: Tagging the Resource Group <br/>
 <br />
 Task 4: Creating a Non-Compliant Virtual Network  <br/>
 <br />
-<img src="https://i.imgur.com/TVGjaJ4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/evn1Xso.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/3UvCpr8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/twdU8WT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/jkewm6W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aN9RwCQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/fJltL1I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/p5V1qYE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-<img src="https://i.imgur.com/ETlsmvk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/EO8GSSk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/rd08Ham.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/M0flrrZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/gyKwslc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-
-<br />
 <br />
 Task 5: Observing Policy Behavior  <br/>
-<br />
-<img src="https://i.imgur.com/2oPtWAi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/5Xk5EfH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="https://i.imgur.com/HUDQX3R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/excau2L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/soAD0ma.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/YNuEbeQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xYSX6gz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/8gNZuA2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/Sf8VLyn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/I8xSB4k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/F8i29yC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/QD4PTBY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VIdaQFL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <br />
 <br />
 <br />
 Task 6: Remediating Existing Resources  <br/>
 <br />
-<img src="https://i.imgur.com/xZTaHiw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QhLEu32.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/HD3uy3S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ajXIOeA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/3hRAGcs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qzqAIQL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/jdPE6NZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ebTP4u6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/c4vg2fl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Fzr59IZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
-<img src="https://i.imgur.com/G6oxNWP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br />
-<img src="https://i.imgur.com/wmWxSQo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br />
-<img src="https://i.imgur.com/i2ULaA8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br />
-<img src="https://i.imgur.com/2F4kOeb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br />
-<img src="https://i.imgur.com/FfGGiFL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br />
-<img src="https://i.imgur.com/4JcAbcY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br />
-<img src="https://i.imgur.com/D6eTdnB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br />
-<img src="https://i.imgur.com/akXlqzZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br />
-<img src="https://i.imgur.com/5d4K8Ln.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br />
-<img src="https://i.imgur.com/hP6JJR2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br />
-<img src="https://i.imgur.com/FtrzrqN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br />
-<img src="https://i.imgur.com/Ic9WOca.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br/>
-<br />
-<img src="https://i.imgur.com/SrQTyb1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6fjqXfo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<img src="https://i.imgur.com/OzWZ6Oh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
