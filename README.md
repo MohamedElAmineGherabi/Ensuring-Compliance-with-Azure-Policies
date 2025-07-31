@@ -2,62 +2,63 @@
 
 
 <h2>Project Details</h2>
-This lab focused on implementing a full virtual machine backup solution using Microsoft Azure. The hands-on project provided me with a structured environment to explore Azure Backup capabilities, from setting up a Recovery Services Vault to configuring backup policies and protecting a virtual machine. It offered practical experience in cloud-based data protection and disaster recovery planning using Azure-native tools.<br />
+This lab focused on implementing Azure Policy to enforce governance and ensure resource compliance within an Azure environment. Acting as an Azure security engineer, I explored how to assign policies that enforce tagging standards and automate tag inheritance. The lab provided hands-on experience in policy assignment, resource deployment, and remediation, reinforcing best practices for organizational compliance and cost management.<br />
 <br />
 
 **Tasks Breakdown:**
 
-**Task 1: Creating a Recovery Services Vault**
+**Task 1: Assigning a Policy to Require Cost Allocation Tags on Resource Groups**
 
-A Recovery Services Vault was created to securely store backup data. This vault acts as a centralized management interface for all backup and recovery operations in Azure.
+A policy was assigned to enforce the presence of a "Cost Allocation" tag on all resource groups. This ensures that financial reporting and chargeback mechanisms are consistently applied across the organization.
 
-**Task 2: Configuring Backup Policies**
+**Task 2: Assigning a Policy to Inherit Tags from Resource Groups**
 
-Backup policies were defined to automate the backup process. This included setting the frequency and retention period for daily backups, ensuring consistent protection of virtual machines.
+A second policy was configured to automatically inherit the "Cost Allocation" tag from the parent resource group to any child resources. This included setting up a user-assigned managed identity to support remediation tasks.
 
-**Task 3: Exercise: Creating a Monthly Backup Policy**
+**Task 3: Tagging the Resource Group**
 
-An exercise involved configuring a monthly backup policy to extend retention and support long-term data protection strategies.
+The resource group used in the lab was manually tagged with the "Cost Allocation" tag, with a value of "IT", to comply with the newly assigned policies.
 
-**Task 4: Creating an Azure Virtual Machine**
+**Task 4: Creating a Non-Compliant Virtual Network**
 
-A virtual machine was provisioned using the Free tier. This VM served as the target for backup operations and simulated a real-world workload environment.
+A virtual network named PolicyVnet2 was created without a "Cost Allocation" tag to test the effectiveness of the inheritance policy. The resource was deployed in the same region as the resource group.
 
-**Task 5: Implementing Azure VM Backup**
+**Task 5: Observing Policy Behavior**
 
-The VM was registered with the Recovery Services Vault, and the backup policy was applied. A backup job was initiated to validate the configuration and ensure successful data protection.
+The lab demonstrated how PolicyVnet2 automatically inherited the "Cost Allocation" tag from its parent resource group, while PolicyVnet1, created before the policy assignment, remained non-compliant.
 
-**Task 6: Exercise: Creating a New VM with Monthly Backup**
+**Task 6: Remediating Existing Resources**
 
-An additional VM was created and protected using the monthly backup policy, demonstrating how to scale backup strategies across multiple resources.
+A remediation task was initiated to bring PolicyVnet1 into compliance. After completion, the resource successfully inherited the required tag, validating the policy's remediation capabilities.
 
 <br />
 
 **Key Takeaways:**
 
-This lab provided a comprehensive walkthrough of Azure Backup for virtual machines. Key skills developed include:
+This lab provided a practical overview of Azure Policy for resource governance. Key skills developed include:
 
-- Creating and managing Recovery Services Vaults
-- Defining and applying backup policies
-- Automating VM backups in Azure
-- Understanding retention strategies for daily and monthly backups
-- Implementing cloud-native disaster recovery solutions
+- Assigning and configuring Azure policies
+- Enforcing tagging standards for cost management
+- Automating tag inheritance across resources
+- Remediating non-compliant resources
+- Strengthening compliance and governance in cloud environments
 
-These skills are essential for cloud administrators, IT professionals, and cybersecurity practitioners responsible for data protection and business continuity in cloud environments.
+These capabilities are essential for cloud security engineers, IT administrators, and compliance officers managing large-scale Azure deployments.
+
 <br />
 
 
 <h2>Softwares and Utilities Used</h2>
 
-- <b>Microsoft Azure Portal: Used for provisioning and managing all backup-related resources.</b>
-- <b>Recovery Services Vault: Centralized service for managing backups.</b>
-- <b>Azure Virtual Machines: Target resources for backup operations.</b>
+- <b>Microsoft Azure Portal: Used for policy assignment, resource provisioning, and remediation.</b>
+- <b>Azure Policy: Central tool for defining and enforcing compliance rules.</b>
+- <b>Azure Virtual Networks: Target resources for policy testing and validation.</b>
 
   
 
 <h2>Environments Used </h2>
 
-- <b>Azure Cloud Environment: All tasks were performed within the Azure ecosystem, leveraging its native tools and services for backup, storage, and virtual machine management.
+- <b>Azure Cloud Environment: All tasks were performed within the Azure ecosystem, leveraging native tools for policy management, identity configuration, and resource deployment.
 
 </b>
 
