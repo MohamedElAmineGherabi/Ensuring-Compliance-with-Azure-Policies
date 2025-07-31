@@ -89,7 +89,16 @@ Task 1: Assigning a Policy to Require Cost Allocation Tags on Resource Groups <b
 <img src="https://i.imgur.com/GuzRJMy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<img src="https://i.imgur.com/GuzRJMy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/B9LmAz7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/s6Ayb9M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/Jar8smX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/nH9QTjP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p align="center">
 Task 2: Assigning a Policy to Inherit Tags from Resource Groups <br/>
